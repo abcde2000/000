@@ -1,13 +1,13 @@
-#include<stdio> 
+#include<stdio.h> 
 int main(void)
 {
     int w,t,x;
     printf("Enter t,x:\n");
     scanf("%d%d",%t,%x);
-    if(x<=3&&t>5){
+    if(x<=3&&t>5);{
         w=10+2*t
     };
-    or(x<=3&&t<=5){
+    or(x<=3&&t<=5);{
         w=10
     };
     if(3<x<=13&&t>5){
